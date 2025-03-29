@@ -1,1 +1,1 @@
-# Dolar-game-bot
+# Blaze-game-bot
